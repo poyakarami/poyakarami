@@ -8,3 +8,26 @@
 - 🌐 [Website](https://poyakarami.ir/) .
 
 
+```mermaid
+graph TD;
+    Haj_POYA-->Skils;
+    Skils-->.Net;
+    Skils-->Sql;
+    Sql-->Sql-Server;
+    Skils-->Unity;
+    Skils-->Designer ;
+    .Net-->C#;
+    .Net-->Asp.net;
+    .Net-->WPF;
+    Unity-->Animations;
+    Unity-->C#-Programming-with0-a-Unity;
+    Unity-->UI(GUI);
+    Unity-->2D-3D;
+    Designer-->Blender;
+    Designer-->Photoshop;
+    Designer-->ZBrush;
+
+
+
+
+```
