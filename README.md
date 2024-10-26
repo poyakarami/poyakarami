@@ -26,8 +26,4 @@ graph TD;
     Designer-->Blender;
     Designer-->Photoshop;
     Designer-->ZBrush;
-
-
-
-
 ```
